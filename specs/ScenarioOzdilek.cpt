@@ -1,0 +1,71 @@
+Created by testinium on 28.02.2022
+
+This is a concept file with following syntax for each concept.
+
+#Alışverişe başlanır.
+*Ozdilek uygulamasının çalıştığı kontrol edilir.
+*Alışverişe başlaya tıklanır.
+*Alışveriş sayfasına gidildiği kontrol edilir.
+
+#Katagori sekmesine gidilir.
+*Katagori Sekmesine tıklanır.
+*Kategori sekmesine gidildiği kontrol edilir.
+
+#Kadın kategorisine gidilir.
+*Kadın kategorisine tıklanır.
+
+#Pantolon kategorisine gidilir.
+*Pantolon kategorisi seçilir.
+
+#İki kere aşagı kaydırılır.
+*Aşağı kaydırılır.
+*Aşağı kaydırılır.
+
+#Kullanıcı tarafından rasgele bir ürün seçilir.
+*Rasgele bir ürün seçilir.
+*Ürün detay sayfasının açıldığı kontrol edilir.
+
+#Kullanıcı ürünü favorilerine ekler.
+*Ürün favorilere eklenir.
+*Üye giriş sayfasına gidildiği kontrol edilir.
+
+#Kullanıcı e-posta adresini girer.
+*Kullanıcı e-posta girişini yapar.
+
+#Kullanıcı sifresini girer.
+*Kullanıcı sifre girişini yapar.
+
+#Kullanıcı geri dönme butonuna tıklar.
+*Geri dönülür.
+
+#Kullanıcı rasgele bir ürün seçer.
+*Rasgele bir ürün seçilir.
+
+#Kullanıcı ürünü sepete ekler.
+*Ürün sepete eklenir.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
